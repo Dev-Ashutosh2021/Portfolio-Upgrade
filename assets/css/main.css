@@ -53,7 +53,7 @@ li,
 }
 
 .fz-290 {
-  font-size: 220px;
+  font-size: 210px;
 }
 
 .fz-120 {
@@ -78,7 +78,7 @@ li,
     font-size: 200px;
   }
   .fz-290 {
-    font-size: 290px;
+    font-size: 230px;
   }
   .fz-120 {
     font-size: 120px;
@@ -2397,7 +2397,7 @@ input[type=color] {
     font-size: 140px;
   }
   .fz-200 {
-    font-size: 120px;
+    font-size: 90px;
   }
   .fz-290 {
     font-size: 180px;
@@ -2475,7 +2475,7 @@ input[type=color] {
     font-size: 70px;
   }
   .fz-200 {
-    font-size: 80px;
+    font-size: 60px;
   }
   .fz-240 {
     font-size: 100px;
@@ -10123,7 +10123,8 @@ input.footer-15__form-input:focus {
   padding: 6px 20px;
   border-radius: 50px;
   border: 1px solid rgba(255, 255, 255, 0.3);
-  background: rgba(70, 70, 70, 0.2);
+  /* background: rgba(70, 70, 70, 0.2); */
+  background: rgba(0, 0, 0, 0.5);
   backdrop-filter: blur(24px);
   text-decoration: none;
   transition: all 0.3s ease;
